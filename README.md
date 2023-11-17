@@ -9,9 +9,9 @@ This C program provides a simple implementation of encryption and decryption. Th
 - **User Interface:** The program includes an interactive menu that allows users to easily choose between encryption, decryption, or exiting the program.
 
 ## How to Use
-#Encryption
+## Encryption
 ./substitution_cipher VCHRPQZXIJGRWFAKULYBESDTNO
-Choose an option:
+- Choose an option:
 1. Encrypt
 2. Decrypt
 0. Exit
@@ -19,9 +19,9 @@ Your choice: 1
 Enter plaintext to encrypt: Hello, World!
 Encryption result: Gtiiq, Tqits!
 
-#Decryption
+## Decryption
 ./substitution_cipher VCHRPQZXIJGRWFAKULYBESDTNO
-Choose an option:
+- Choose an option:
 1. Encrypt
 2. Decrypt
 0. Exit
